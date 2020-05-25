@@ -5,4 +5,4 @@ p = o[0:25:5]  #taking slices of the range will result in the line p = o[10:20:2
                 # by it
 print(p)
 for i in p:
-    print(i)
+    print(i) 
